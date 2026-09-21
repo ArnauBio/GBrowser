@@ -1307,24 +1307,6 @@ type bigWig
 autoScale group
 bigDataUrl https://www.encodeproject.org/files/ENCFF792SZA/@@download/ENCFF792SZA.bigWig
 
-track t_RUSH_ENCFF965MWV
-parent t_RUSH_H3K27ac off
-shortLabel ENCDO470GFA
-longLabel ENCFF965MWV | ENCSR814QIV | ENCDO470GFA | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF965MWV/@@download/ENCFF965MWV.bigWig
-
-track t_RUSH_ENCFF673MXX
-parent t_RUSH_H3K27ac off
-shortLabel ENCDO470GFA
-longLabel ENCFF673MXX | ENCSR814QIV | ENCDO470GFA | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF673MXX/@@download/ENCFF673MXX.bigWig
-
 track t_RUSH_ENCFF868MMO
 parent t_RUSH_H3K27ac off
 shortLabel ENCDO470GFA
@@ -1649,24 +1631,6 @@ type bigWig
 autoScale group
 bigDataUrl https://www.encodeproject.org/files/ENCFF984DOS/@@download/ENCFF984DOS.bigWig
 
-track t_RUSH_ENCFF058LCY
-parent t_RUSH_H3K27ac off
-shortLabel ENCDO597SRH
-longLabel ENCFF058LCY | ENCSR262JRZ | ENCDO597SRH | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF058LCY/@@download/ENCFF058LCY.bigWig
-
-track t_RUSH_ENCFF120TVE
-parent t_RUSH_H3K27ac off
-shortLabel ENCDO597SRH
-longLabel ENCFF120TVE | ENCSR262JRZ | ENCDO597SRH | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF120TVE/@@download/ENCFF120TVE.bigWig
-
 track t_RUSH_ENCFF649LLS
 parent t_RUSH_H3K27ac off
 shortLabel ENCDO101GPB
@@ -1988,15 +1952,6 @@ type bigWig
 autoScale group
 bigDataUrl https://www.encodeproject.org/files/ENCFF138FDI/@@download/ENCFF138FDI.bigWig
 
-track t_RUSH_ENCFF381SWR
-parent t_RUSH_H3K27me3 off
-shortLabel ENCDO470GFA
-longLabel ENCFF381SWR | ENCSR817PGE | ENCDO470GFA | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF381SWR/@@download/ENCFF381SWR.bigWig
-
 track t_RUSH_ENCFF763BPB
 parent t_RUSH_H3K27me3 off
 shortLabel ENCDO470GFA
@@ -2005,15 +1960,6 @@ subGroups diagnosis=d001 sex=s001
 type bigWig
 autoScale group
 bigDataUrl https://www.encodeproject.org/files/ENCFF763BPB/@@download/ENCFF763BPB.bigWig
-
-track t_RUSH_ENCFF059USQ
-parent t_RUSH_H3K27me3 off
-shortLabel ENCDO470GFA
-longLabel ENCFF059USQ | ENCSR817PGE | ENCDO470GFA | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF059USQ/@@download/ENCFF059USQ.bigWig
 
 track t_RUSH_ENCFF078NBH
 parent t_RUSH_H3K27me3 off
@@ -2041,24 +1987,6 @@ subGroups diagnosis=d001 sex=s001
 type bigWig
 autoScale group
 bigDataUrl https://www.encodeproject.org/files/ENCFF964AOD/@@download/ENCFF964AOD.bigWig
-
-track t_RUSH_ENCFF055TAF
-parent t_RUSH_H3K27me3 off
-shortLabel ENCDO597SRH
-longLabel ENCFF055TAF | ENCSR433PYM | ENCDO597SRH | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF055TAF/@@download/ENCFF055TAF.bigWig
-
-track t_RUSH_ENCFF849QGT
-parent t_RUSH_H3K27me3 off
-shortLabel ENCDO597SRH
-longLabel ENCFF849QGT | ENCSR433PYM | ENCDO597SRH | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF849QGT/@@download/ENCFF849QGT.bigWig
 
 track t_RUSH_ENCFF816LMW
 parent t_RUSH_H3K27me3 off
@@ -2461,24 +2389,6 @@ subGroups diagnosis=d001 sex=s001
 type bigWig
 autoScale group
 bigDataUrl https://www.encodeproject.org/files/ENCFF193AAN/@@download/ENCFF193AAN.bigWig
-
-track t_RUSH_ENCFF637YWI
-parent t_RUSH_H3K4me3 off
-shortLabel ENCDO597SRH
-longLabel ENCFF637YWI | ENCSR245QRV | ENCDO597SRH | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF637YWI/@@download/ENCFF637YWI.bigWig
-
-track t_RUSH_ENCFF817ABM
-parent t_RUSH_H3K4me3 off
-shortLabel ENCDO597SRH
-longLabel ENCFF817ABM | ENCSR245QRV | ENCDO597SRH | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF817ABM/@@download/ENCFF817ABM.bigWig
 
 track t_RUSH_ENCFF089ALU
 parent t_RUSH_H3K4me3 off
@@ -2939,15 +2849,6 @@ type bigWig
 autoScale group
 bigDataUrl https://www.encodeproject.org/files/ENCFF867WWB/@@download/ENCFF867WWB.bigWig
 
-track t_RUSH_ENCFF645KXB
-parent t_RUSH_H3K4me3 off
-shortLabel ENCDO470GFA
-longLabel ENCFF645KXB | ENCSR703AIO | ENCDO470GFA | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF645KXB/@@download/ENCFF645KXB.bigWig
-
 track t_RUSH_ENCFF484WVU
 parent t_RUSH_H3K4me3 off
 shortLabel ENCDO470GFA
@@ -2956,15 +2857,6 @@ subGroups diagnosis=d001 sex=s001
 type bigWig
 autoScale group
 bigDataUrl https://www.encodeproject.org/files/ENCFF484WVU/@@download/ENCFF484WVU.bigWig
-
-track t_RUSH_ENCFF949QEL
-parent t_RUSH_H3K4me3 off
-shortLabel ENCDO470GFA
-longLabel ENCFF949QEL | ENCSR703AIO | ENCDO470GFA | AD | Female
-subGroups diagnosis=d001 sex=s001
-type bigWig
-autoScale group
-bigDataUrl https://www.encodeproject.org/files/ENCFF949QEL/@@download/ENCFF949QEL.bigWig
 
 track t_RUSH_ENCFF198NDW
 parent t_RUSH_H3K4me3 off
